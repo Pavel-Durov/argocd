@@ -3,6 +3,9 @@
 My record of progression in GitOps cert.
 
 [Examples](https://github.com/Pavel-Durov/gitops-certification-examples/blob/main/simple-app/deployment.yml)
+
+[Secrets Example](https://github.com/codefresh-contrib/gitops-secrets-sample-app)
+
 ## ArgoCD cli
 ### Deploy demo app
 
